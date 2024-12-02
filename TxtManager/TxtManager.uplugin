@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TxtManager",
+	"Description": "A toolkit for .txt file manager",
+	"Category": "Other",
+	"CreatedBy": "dzm",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TxtManager",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
